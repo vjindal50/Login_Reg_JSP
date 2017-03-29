@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/mysql-connector-java-5.1.40/src/lib/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/mysql-connector-java-5.1.40/src/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/mysql-connector-java-5.1.40/src/lib/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/mysql-connector-java-5.1.40/src/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/org.springframework.web.servlet-sources-3.0.5.RELEASE.jar/org.springframework.web.servlet-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/org.springframework.web.servlet-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/org.springframework.web-2.5.5.a.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/org.springframework.web.servlet-3.0.0.M3.jar.zip"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/javax.servlet.jar.zip"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/javax.servlet.jar/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="D:/ee810j java spring/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar" sourcepath="D:/ee810j java spring/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
